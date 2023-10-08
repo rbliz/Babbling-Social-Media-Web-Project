@@ -161,7 +161,8 @@ button{
 }
 .comment-input{
     font-size: 10px;
-    height: 50px;
+    height: 90px;
+    line-height: 5px;
 }
 #comment-btn{
     background-color:#89023e;
